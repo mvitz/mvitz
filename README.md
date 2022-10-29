@@ -1,4 +1,4 @@
 - 🔭 I’m Michael Vitz
-- 🤔 I’m on Twitter https://twitter.com/michaelvitz
-- 📫 How to reach me: https://mvitz.de/contact/
+- 🤔 I’m [@michaelvitz on Twitter](https://twitter.com/michaelvitz) and [@michaelvitz@nrw.social on mastodon](https://nrw.social/@michaelvitz)
+- 📫 How to reach me: https://mvitz.de
 - 😄 Pronouns: he/him/his
